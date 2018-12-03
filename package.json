@@ -1,0 +1,29 @@
+{
+  "name": "pokedex",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "PORT=9000 node ./bin/www",
+    "test": "ENV=CI ./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "consolidate": "^0.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "lodash": "^4.17.10",
+    "mocha": "^5.2.0",
+    "mockery": "^2.1.0",
+    "morgan": "~1.9.0",
+    "nock": "^9.4.2",
+    "node-mocks-http": "^1.7.0",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5",
+    "sinon": "^6.1.3"
+  }
+}

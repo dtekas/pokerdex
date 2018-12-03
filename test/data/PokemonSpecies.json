@@ -1,0 +1,949 @@
+{
+	"capture_rate": 190,
+	"habitat": {
+		"url": "https://pokeapi.co/api/v2/pokemon-habitat/4/",
+		"name": "mountain"
+	},
+	"color": {
+		"url": "https://pokeapi.co/api/v2/pokemon-color/3/",
+		"name": "brown"
+	},
+	"forms_switchable": false,
+	"shape": {
+		"url": "https://pokeapi.co/api/v2/pokemon-shape/6/",
+		"name": "upright"
+	},
+	"names": [
+		{
+			"name": "猴怪",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/12/",
+				"name": "zh-Hans"
+			}
+		},
+		{
+			"name": "マンキー",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"name": "Mankey",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"name": "Mankey",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"name": "Mankey",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"name": "Menki",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"name": "Férosinge",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"name": "猴怪",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/4/",
+				"name": "zh-Hant"
+			}
+		},
+		{
+			"name": "망키",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"name": "Mankey",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/2/",
+				"name": "roomaji"
+			}
+		},
+		{
+			"name": "マンキー",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		}
+	],
+	"id": 56,
+	"egg_groups": [
+		{
+			"url": "https://pokeapi.co/api/v2/egg-group/5/",
+			"name": "ground"
+		}
+	],
+	"base_happiness": 70,
+	"generation": {
+		"url": "https://pokeapi.co/api/v2/generation/1/",
+		"name": "generation-i"
+	},
+	"flavor_text_entries": [
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "发泄完怒气后累得睡着了，\n却在梦里发怒而醒来，\n于是又因为醒来而再次发怒了。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/12/",
+				"name": "zh-Hans"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "怒り散らして　疲れて　眠るが\n夢の　中で　腹を立て　怒りで\n目覚め　目覚めたことに　また怒る。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "Its raging tires it out and causes it to fall asleep,\nbut the anger resonating in its dreams causes it\nto wake up—which infuriates it all over again.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "Quando si infuria si stanca così tanto che si\naddormenta, ma si arrabbia anche in sogno,\ne si risveglia ancora più arrabbiato.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "Tras desatar su ira, le entra sueño y se duerme.\nSin embargo, sus pesadillas lo atormentan aún\nmás, por lo que se despierta de muy mal humor.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "Es ärgert sich, bis es vor Erschöpfung eindöst.\nDoch selbst im Traum findet es keine Ruhe, also\nwacht es wieder auf und wird noch wütender.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "Fatigué de sa colère permanente, il lui arrive\nde dormir, mais il rêve de ses frustrations, se\nréveille, et se met en colère d’avoir été réveillé.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "發洩完怒氣後累得睡著了，\n但卻在夢裡生氣而醒來，\n然後又因為醒來而再次發怒了。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/4/",
+				"name": "zh-Hant"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "마구 화를 내다 지쳐서 잠이 들지만\n꿈속에서 화를 내서 분노로 일어나고\n일어났다는 사실에 또 화를 낸다.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/28/",
+				"name": "moon"
+			},
+			"flavor_text": "いかりちらして　つかれて　ねむるが\nゆめの　なかで　はらをたて　いかりで\nめざめ　めざめたことに　またいかる。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "体が　震え　鼻息が　荒くなれば\n怒りだす　前触れ　なのだが　あっという間に\n激しく　怒るので　逃げ出す　暇は　ない。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "When Mankey starts shaking and its nasal breathing turns\nrough, it’s a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "Cuando Mankey empieza a temblar y a respirar con más\nintensidad, seguro que va a enfadarse. Aunque prever su\nenfado no sirve de nada porque alcanza un estado de rabia\ntan rápido que no hay escapatoria.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "Lorsque Férosinge commence à trembler et que sa respiration\ndevient haletante, cela signifie qu’il est en colère. En outre,\nla moutarde lui monte au nez tellement vite qu’il est presque\nimpossible d’échapper à sa colère.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "몸이 떨리며 콧김이 거칠어지면\n화를 낼 조짐이지만 순식간에 격렬하게\n화를 내기 때문에 도망갈 틈이 없다.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/26/",
+				"name": "alpha-sapphire"
+			},
+			"flavor_text": "からだが　ふるえ　はないきが　あらくなれば\nおこりだす　まえぶれ　なのだが　あっというまに\nはげしく　おこるので　にげだす　ひまは　ない。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "体が　震え　鼻息が　荒くなれば\n怒りだす　前触れ　なのだが　あっという間に\n激しく　怒るので　逃げ出す　暇は　ない。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "When Mankey starts shaking and its nasal breathing turns\nrough, it’s a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "Cuando Mankey empieza a temblar y a respirar con más\nintensidad, seguro que va a enfadarse. Aunque prever su\nenfado no sirve de nada porque alcanza un estado de rabia\ntan rápido que no hay escapatoria.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "Lorsque Férosinge commence à trembler et que sa respiration\ndevient haletante, cela signifie qu’il est en colère. En outre,\nla moutarde lui monte au nez tellement vite qu’il est presque\nimpossible d’échapper à sa colère.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "몸이 떨리며 콧김이 거칠어지면\n화를 낼 조짐이지만 순식간에 격렬하게\n화를 내기 때문에 도망갈 틈이 없다.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/25/",
+				"name": "omega-ruby"
+			},
+			"flavor_text": "からだが　ふるえ　はないきが　あらくなれば\nおこりだす　まえぶれ　なのだが　あっというまに\nはげしく　おこるので　にげだす　ひまは　ない。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "木の上で　生活している。\n群れの　１匹が　怒り出すと\n全員が　意味もなく　暴れ出す。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "It lives in treetop colonies. If one becomes\nenraged, the whole colony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "Vive in colonie sugli alberi. Se uno si adira, l’intera\ncolonia comincia ad agire violentemente senza motivo.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "Vive en colonias en los árboles. Si uno se enfada, el\nresto de la manada ataca sin motivo.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "Es lebt mit anderen in Baumkronen. Wird eines von\nihnen wütend, werden alle anderen auch wütend.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "Ils vivent en colonies sylvestres. Quand un Férosinge\ns’énerve, toute la colonie suit son exemple.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "나무 위에서 생활하고 있다.\n무리 중 1마리가 화내기 시작하면\n모두 아무 의미도 없이 난동을 부린다.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/24/",
+				"name": "y"
+			},
+			"flavor_text": "きのうえで　せいかつしている。\nむれの　１ぴきが　おこりはじめると\nぜんいんが　いみもなく　あばれだす。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "意味もなく　怒って　暴れ出すと\n仲間の　区別も　つかなくなるので\n近寄るのは　非常に　危険だ。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "It’s unsafe to approach if it gets violently enraged\nfor no reason and can’t distinguish friends\nfrom foes.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "Se è tanto arrabbiato da non riuscire più a distinguere\ngli amici dai nemici, è pericoloso avvicinarsi.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "Da es grundlos angreift und nicht zwischen Freund\noder Feind unterscheidet, ist es sehr gefährlich.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "Il ne peut dissocier ses amis de ses ennemis et a\ntendance à enrager lorsqu’on l’approche.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "이유 없이 화내고 날뛰기 시작하면\n동료도 구별하지 못하기 때문에\n가까이 가는 것은 매우 위험하다.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/23/",
+				"name": "x"
+			},
+			"flavor_text": "いみもなく　おこって　あばれだすと\nなかまの　くべつも　つかなくなるので\nちかよるのは　ひじょうに　きけんだ。",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/22/",
+				"name": "white-2"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/21/",
+				"name": "black-2"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/18/",
+				"name": "white"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/18/",
+				"name": "white"
+			},
+			"flavor_text": "Ils vivent en colonies sylvestres.\nQuand un Férosinge s’énerve, toute\nla colonie suit son exemple.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/17/",
+				"name": "black"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/17/",
+				"name": "black"
+			},
+			"flavor_text": "Ils vivent en colonies sylvestres.\nQuand un Férosinge s’énerve, toute\nla colonie suit son exemple.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/16/",
+				"name": "soulsilver"
+			},
+			"flavor_text": "It’s unsafe to approach if it gets\nviolently enraged for no reason and\ncan’t distinguish friends from foes.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/15/",
+				"name": "heartgold"
+			},
+			"flavor_text": "It is extremely ill-tempered.\nGroups of them will attack any\nhandy target for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/14/",
+				"name": "platinum"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/13/",
+				"name": "pearl"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/12/",
+				"name": "diamond"
+			},
+			"flavor_text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/11/",
+				"name": "leafgreen"
+			},
+			"flavor_text": "Extremely quick to anger. It could be\ndocile one moment, then thrashing away \nthe next instant.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/10/",
+				"name": "firered"
+			},
+			"flavor_text": "Light and agile on its feet, and ferocious\nin temperament. When angered, it flies into\nan uncontrollable frenzy.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/9/",
+				"name": "emerald"
+			},
+			"flavor_text": "When it starts shaking and its nasal\nbreathing turns rough, it’s a sure sign\nof anger. However, since this happens\ninstantly, there is no time to flee.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/8/",
+				"name": "sapphire"
+			},
+			"flavor_text": "When MANKEY starts shaking and its\nnasal breathing turns rough, it’s a sure\nsign that it is becoming angry.\fHowever, because it goes into a\ntowering rage almost instantly, it is\nimpossible for anyone to flee its wrath.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/7/",
+				"name": "ruby"
+			},
+			"flavor_text": "When MANKEY starts shaking and its\nnasal breathing turns rough, it’s a sure\nsign that it is becoming angry.\fHowever, because it goes into a\ntowering rage almost instantly, it is\nimpossible for anyone to flee its wrath.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/6/",
+				"name": "crystal"
+			},
+			"flavor_text": "It lives in groups\nin the treetops.\nIf it loses sight\fof its group, it\nbecomes infuriated\nby its loneliness.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/5/",
+				"name": "silver"
+			},
+			"flavor_text": "It's unsafe to ap­\nproach if it gets\nviolently enraged\ffor no reason and\ncan't distinguish\nfriends from foes.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/4/",
+				"name": "gold"
+			},
+			"flavor_text": "It is extremely\nill-tempered.\nGroups of them\fwill attack any\nhandy target for\nno reason.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/3/",
+				"name": "yellow"
+			},
+			"flavor_text": "An agile POKéMON\nthat lives in\ntrees. It angers\feasily and will\nnot hesitate to\nattack anything.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/2/",
+				"name": "blue"
+			},
+			"flavor_text": "Extremely quick to\nanger. It could\nbe docile one\fmoment then\nthrashing away\nthe next instant.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"version": {
+				"url": "https://pokeapi.co/api/v2/version/1/",
+				"name": "red"
+			},
+			"flavor_text": "Extremely quick to\nanger. It could\nbe docile one\fmoment then\nthrashing away\nthe next instant.",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		}
+	],
+	"growth_rate": {
+		"url": "https://pokeapi.co/api/v2/growth-rate/2/",
+		"name": "medium"
+	},
+	"hatch_counter": 20,
+	"genera": [
+		{
+			"genus": "猪猴宝可梦",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/12/",
+				"name": "zh-Hans"
+			}
+		},
+		{
+			"genus": "ぶたざるポケモン",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/11/",
+				"name": "ja"
+			}
+		},
+		{
+			"genus": "Pig Monkey Pokémon",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/9/",
+				"name": "en"
+			}
+		},
+		{
+			"genus": "Pokémon Suinpanzé",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/8/",
+				"name": "it"
+			}
+		},
+		{
+			"genus": "Pokémon Mono Cerdo",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/7/",
+				"name": "es"
+			}
+		},
+		{
+			"genus": "Schwein/Affe",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/6/",
+				"name": "de"
+			}
+		},
+		{
+			"genus": "Pokémon Porsinge",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/5/",
+				"name": "fr"
+			}
+		},
+		{
+			"genus": "豬猴寶可夢",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/4/",
+				"name": "zh-Hant"
+			}
+		},
+		{
+			"genus": "돈숭이포켓몬",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/3/",
+				"name": "ko"
+			}
+		},
+		{
+			"genus": "ぶたざるポケモン",
+			"language": {
+				"url": "https://pokeapi.co/api/v2/language/1/",
+				"name": "ja-Hrkt"
+			}
+		}
+	],
+	"evolves_from_species": null,
+	"form_descriptions": [],
+	"varieties": [
+		{
+			"is_default": true,
+			"pokemon": {
+				"url": "https://pokeapi.co/api/v2/pokemon/56/",
+				"name": "mankey"
+			}
+		}
+	],
+	"name": "mankey",
+	"evolution_chain": {
+		"url": "https://pokeapi.co/api/v2/evolution-chain/24/"
+	},
+	"has_gender_differences": false,
+	"is_baby": false,
+	"gender_rate": 4,
+	"pal_park_encounters": [
+		{
+			"rate": 30,
+			"base_score": 50,
+			"area": {
+				"url": "https://pokeapi.co/api/v2/pal-park-area/3/",
+				"name": "mountain"
+			}
+		}
+	],
+	"order": 61,
+	"pokedex_numbers": [
+		{
+			"entry_number": 136,
+			"pokedex": {
+				"url": "https://pokeapi.co/api/v2/pokedex/7/",
+				"name": "updated-johto"
+			}
+		},
+		{
+			"entry_number": 134,
+			"pokedex": {
+				"url": "https://pokeapi.co/api/v2/pokedex/3/",
+				"name": "original-johto"
+			}
+		},
+		{
+			"entry_number": 56,
+			"pokedex": {
+				"url": "https://pokeapi.co/api/v2/pokedex/2/",
+				"name": "kanto"
+			}
+		},
+		{
+			"entry_number": 56,
+			"pokedex": {
+				"url": "https://pokeapi.co/api/v2/pokedex/1/",
+				"name": "national"
+			}
+		}
+	]
+}

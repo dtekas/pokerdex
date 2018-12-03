@@ -1,0 +1,6 @@
+<header class="App-header">
+    <div class="App-header-content">
+        <img src="https://i.ebayimg.com/images/g/S5cAAOSwX0xbOQhi/s-l640.jpg" class="App-logo" alt="logo">
+        <div class="App-title">Pokedex</div>
+    </div>
+</header>

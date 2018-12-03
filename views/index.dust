@@ -1,0 +1,10 @@
+{>"layout"/}
+{<body}
+<div class="container">
+    <div id="poke-app">
+        <h4>Search for a pokemon</h4>
+    </div>
+</div>
+{/body}
+{+javascript}
+{/javascript}
